@@ -1,3 +1,6 @@
+//George Liang
+//Systems Level Programming Pd.5
+//2018-09-10
 #include <stdio.h>
 int main(){
   int sum = 0;
