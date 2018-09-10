@@ -1,3 +1,6 @@
 [submodule "4/lu_william"]
 	path = 4/lu_william
 	url = https://github.com/WilliamLu0211/SystemHW.git
+[submodule "5/galakhov_ivan"]
+	path = 5/galakhov_ivan
+	url = https://github.com/igalakhov/Systems_Work01.git
