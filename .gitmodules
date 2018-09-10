@@ -4,3 +4,6 @@
 [submodule "5/galakhov_ivan"]
 	path = 5/galakhov_ivan
 	url = https://github.com/igalakhov/Systems_Work01.git
+[submodule "5/wang_lynne"]
+	path = 5/wang_lynne
+	url = https://github.com/ennylgnaw/HW1.git
