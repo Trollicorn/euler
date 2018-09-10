@@ -7,3 +7,9 @@
 [submodule "5/wang_lynne"]
 	path = 5/wang_lynne
 	url = https://github.com/ennylgnaw/HW1.git
+[submodule "4/liu"]
+	path = 4/liu
+	url = https://github.com/foreversteve/Work01.git
+[submodule "4/liu_steven"]
+	path = 4/liu_steven
+	url = https://github.com/foreversteve/Work01.git
