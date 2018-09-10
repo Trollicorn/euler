@@ -13,3 +13,9 @@
 [submodule "4/liu_steven"]
 	path = 4/liu_steven
 	url = https://github.com/foreversteve/Work01.git
+[submodule "4/systems18"]
+	path = 4/systems18
+	url = https://github.com/meredeath/systems18.git
+[submodule "4/hu_meredith"]
+	path = 4/hu_meredith
+	url = https://github.com/meredeath/systems18.git
