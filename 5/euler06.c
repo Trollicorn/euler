@@ -1,4 +1,7 @@
 #include <stdio.h>
+//Rubin Peci
+//Period 5
+//2018-09-09
 
 /*
 Project Euler Problem 6
@@ -30,6 +33,6 @@ int main()
     int square = (100 * (1 + 100)) / 2;
     square = square * square;
 
-    //prints the difference, which is what is asks for
+    //prints the difference
     printf("%d\n", square - sum);
 }
