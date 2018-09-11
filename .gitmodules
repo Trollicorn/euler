@@ -37,3 +37,6 @@
 [submodule "4/tan_stefan"]
 	path = 4/tan_stefan
 	url = https://github.com/StefanTan18/Work01.git
+[submodule "4/kendall_matthew"]
+	path = 4/kendall_matthew
+	url = git@github.com:MKendall17/systems18.git
