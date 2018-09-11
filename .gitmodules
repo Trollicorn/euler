@@ -40,3 +40,6 @@
 [submodule "4/kendall_matthew"]
 	path = 4/kendall_matthew
 	url = git@github.com:MKendall17/systems18.git
+[submodule "4/singer_jonathan"]
+	path = 4/singer_jonathan
+	url = git@github.com:jesings/systemsHW01.git
