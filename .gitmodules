@@ -34,3 +34,6 @@
 [submodule "4/jamil_mohammed"]
 	path = 4/jamil_mohammed
 	url = https://github.com/Zer0-M/MKS65.git
+[submodule "4/tan_stefan"]
+	path = 4/tan_stefan
+	url = https://github.com/StefanTan18/Work01.git
